@@ -12,5 +12,10 @@ public class Note {
 	 * Comparable (compareTo)
 	 * Iterable (iterate)
 	 * Runable (run)
+	 * 
+	 * interface Function<T, R> {
+	 * 		take T as argument;
+	 * 		return R;
+	 * }
 	 */
 }
